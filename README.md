@@ -10,7 +10,7 @@ Open cmd/terminal in the file directory and type "pip install -r requirements.tx
 Type in cmd/terminal.<br>
 python XssTool.py [the website you want] [level]<br>
 The [level] mean "-easy" or "-medium".<br><br>
-<b>Thank You For Reading this:</b>
+<b>Thanks For Reading this:</b>
 <p>Facebook : https://www.facebook.com/bourri.abd<br>
 Instagram : https://www.instagram.com/abderrahmane_bourri/<br>
 Mail : As8apple@gmail.com</p>
